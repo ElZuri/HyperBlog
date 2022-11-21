@@ -1,3 +1,5 @@
 Hola Luis tiene 27 años
 
-Nacio en Mexico Guanajuato
+Nacio en Mexico Guanajuato.
+
+y esta estudiando ingenieria en sistemas computacionales.
