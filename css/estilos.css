@@ -58,3 +58,19 @@ body
     text-align: center;
     padding: 0.5em;
 }
+#platzi {
+    background: #1e1f24;
+    color: #40ff00;
+    text-align: left;
+    font-family: Lucida Console;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#certificado {
+    width: 100%;
+    height: auto;
+}
+#platzi a{
+    color:#DDD;
+}
